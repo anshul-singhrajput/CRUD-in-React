@@ -1,0 +1,34 @@
+.add_btn{
+ 
+  text-align: right;
+  margin-bottom: 10px;
+  
+}
+
+.container{
+ overflow: auto;
+}
+
+.center_view{
+  margin-left: 80px;
+}
+
+.center_view h3{
+  font-size: 21px;
+  margin-top: 20px;
+}
+
+.center_view span{
+ font-weight: 400;
+}
+
+.img-btn{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.update{
+  margin-left: 266px;
+}
+
